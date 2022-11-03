@@ -2,7 +2,7 @@
 - 💼 I'm working as a Product Enginner at [psytech.ai](https://psytech.ai)
 - 👀 I’m interested in building prototypes from scratch (e.g. [mutter.ai](https://mutter.ai)).
 - 🌱 I’m currently learning JavaScript & formal logic.
-- 📫 Reach me at asxyzp-at-the-rate-gmail-dot-com
+- 📫 Reach me at asxyzp-at-the-rate-psytech-dot-ai
 
 <!---
 asxyzp-psytech/asxyzp-psytech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
